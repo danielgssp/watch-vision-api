@@ -3,5 +3,8 @@
 ### About
 REST of Watch Vision.
 
-## Getting Start
+### install
+`npm i`
+
+### run
 `npm start`
